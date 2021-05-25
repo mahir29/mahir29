@@ -1,14 +1,12 @@
 ### Hi there, I'm Mahir👋
 
-## I'm a Developer, and Student!!
+## I'm a Developer, and Student!!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and dance
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ### Spotify Playing 🎧
 
