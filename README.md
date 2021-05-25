@@ -3,7 +3,7 @@
 ## I'm a Developer, and Student!!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning lot of stuff
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and dance
