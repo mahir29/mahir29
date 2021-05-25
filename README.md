@@ -46,6 +46,12 @@
 [linkedin]: https://www.linkedin.com/in/mahir-goel-28484b198
 [facebook]: https://www.facebook.com/mahir.goel.52
 
+<br />
+
+![Mahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahir29&count_private=true&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **mahir29/mahir29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
