@@ -7,6 +7,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and dance
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -48,7 +51,7 @@
 
 <br />
 
-![Mahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahir29&count_private=true&show_icons=true&theme=radical)
+
 
 
 
